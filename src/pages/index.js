@@ -5,7 +5,7 @@ import {
   HeroSection
 } from 'gatsby-theme-portfolio-minimal'
 
-export default function Home() {
+function Home() {
   return (
     <>
       <Seo title="areas.me" />
@@ -15,3 +15,5 @@ export default function Home() {
     </>
   );
 }
+
+export default Home

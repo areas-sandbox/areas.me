@@ -1,10 +1,17 @@
 /**
  * Configure your Gatsby site with this file.
  *
- * See: https://www.gatsbyjs.com/docs/gatsby-config/
+ * To learn more, see: https://www.gatsbyjs.com/docs/gatsby-config/
  */
 
 module.exports = {
-  /* Your site config here */
-  plugins: [`gatsby-theme-portfolio-minimal`],
-}
+  /* site configs */
+  plugins: [
+    {
+      resolve: `gatsby-theme-portfolio-minimal`,
+      options: {
+        
+      }
+    }
+  ],
+};
