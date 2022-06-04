@@ -2,22 +2,16 @@ import React from "react"
 import {
   Seo,
   Page,
-  HeroSection,
-  ArticlesSection
+  HeroSection
 } from 'gatsby-theme-portfolio-minimal'
 
 function Home() {
   return (
     <>
       <Seo title="areas.me" />
-      <Page useSplashScreenAnimation>
+      <Page>
         <HeroSection
           sectionId="hero"
-        />
-        <ArticlesSection
-          sectionId="articles"
-          heading="Latest Posts"
-          sources={['Blog']}
         />
       </Page>
     </>

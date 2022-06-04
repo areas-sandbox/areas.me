@@ -19,6 +19,7 @@
         "logo": { "text": "areas.me" },
         "navigation": {
             "header": [
+                { "label": "Home", "url": "/" },
                 { "label": "Blog", "url": "/blog" }
             ],
             "ctaButton": { "openNewTab": true, "label": "Resume", "url": "/Christian Areas.pdf" },
