@@ -1,0 +1,34 @@
+{
+    "siteMetadata": {
+        "language": "en",
+        "siteUrl": "https://areas.me",
+        "title": "areas.me",
+        "titleTemplate": "%s · Portfolio",
+        "description": "",
+        "author": "Christian Areas",
+        "avatar": "../content/images/christian-circle.png",
+        "bio": "A writer who loves language and technology. Honest, transparent, and easy to work with. Runs marathons and builds mechanical keyboards during off hours.",
+        "social": {
+            "github": "https://github.com/christianareas",
+            "medium": "",
+            "linkedin": "http://linkedin.com/in/christianareas",
+            "mail": "me@areas.me"
+        }
+    },
+    "siteConfiguration": {
+        "logo": { "text": "areas.me" },
+        "navigation": {
+            "header": [
+                { "label": "Thoughts", "url": "/thoughts" }
+            ],
+            "ctaButton": { "openNewTab": true, "label": "Resume", "url": "/Christian Areas.pdf" },
+            "footer": [
+            ]
+        },
+        "featureToggles": {
+            "useDarkModeAsDefault": false,
+            "useDarkModeBasedOnUsersPreference": true,
+            "useCookieBar": false
+        }
+    }
+}
