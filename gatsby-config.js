@@ -11,7 +11,7 @@ module.exports = {
       resolve: `gatsby-theme-portfolio-minimal`,
       options: {
         blogSettings: {
-          path: '/blog',
+          path: '/thoughts',
           usePathPrefixForArticles: true,
         },
       },

@@ -20,7 +20,7 @@
         "navigation": {
             "header": [
                 { "label": "Home", "url": "/" },
-                { "label": "Blog", "url": "/blog" }
+                { "label": "Thoughts", "url": "/thoughts" }
             ],
             "ctaButton": { "openNewTab": true, "label": "Resume", "url": "/Christian Areas.pdf" },
             "footer": [
