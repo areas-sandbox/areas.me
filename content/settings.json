@@ -6,8 +6,8 @@
         "titleTemplate": "%s · Portfolio",
         "description": "",
         "author": "Christian Areas",
-        "avatar": "../content/images/christian.jpg",
-        "bio": "This is a bio.",
+        "avatar": "../content/images/christian-circle.png",
+        "bio": "A writer who loves language and technology. Honest, transparent, and easy to work with. Runs marathons and builds mechanical keyboards during off hours.",
         "social": {
             "github": "https://github.com/christianareas",
             "medium": "",
@@ -19,7 +19,6 @@
         "logo": { "text": "areas.me" },
         "navigation": {
             "header": [
-                { "label": "Home", "url": "/" },
                 { "label": "Thoughts", "url": "/thoughts" }
             ],
             "ctaButton": { "openNewTab": true, "label": "Resume", "url": "/Christian Areas.pdf" },

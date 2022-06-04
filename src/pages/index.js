@@ -9,7 +9,7 @@ function Home() {
   return (
     <>
       <Seo title="areas.me" />
-      <Page>
+      <Page useSplashScreenAnimation>
         <HeroSection
           sectionId="hero"
         />
