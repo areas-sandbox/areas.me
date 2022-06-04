@@ -1,10 +1,18 @@
-/**
- * Configure your Gatsby site with this file.
- *
- * See: https://www.gatsbyjs.com/docs/gatsby-config/
+/*
+ * gatsby config
+ * to learn more, see: https://www.gatsbyjs.com/docs/gatsby-config/
  */
 
 module.exports = {
-  /* Your site config here */
-  plugins: [`gatsby-theme-portfolio-minimal`],
-}
+  plugins: [
+    {
+      resolve: `gatsby-theme-portfolio-minimal`,
+      options: {
+        blogSettings: {
+          path: '/thoughts',
+          usePathPrefixForArticles: true,
+        },
+      },
+    },
+  ],
+};

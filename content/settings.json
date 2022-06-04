@@ -1,25 +1,25 @@
 {
     "siteMetadata": {
         "language": "en",
-        "siteUrl": "areas.me",
-        "title": "",
+        "siteUrl": "https://areas.me",
+        "title": "areas.me",
         "titleTemplate": "%s · Portfolio",
         "description": "",
-        "author": "",
-        "avatar": "",
-        "bio": "",
+        "author": "Christian Areas",
+        "avatar": "../content/images/christian-circle.png",
+        "bio": "A writer who loves language and technology. Honest, transparent, and easy to work with. Runs marathons and builds mechanical keyboards during off hours.",
         "social": {
-            "behance": "https://behance.com",
             "github": "https://github.com/christianareas",
             "medium": "",
             "linkedin": "http://linkedin.com/in/christianareas",
-            "mail": ""
+            "mail": "me@areas.me"
         }
     },
     "siteConfiguration": {
         "logo": { "text": "areas.me" },
         "navigation": {
             "header": [
+                { "label": "Thoughts", "url": "/thoughts" }
             ],
             "ctaButton": { "openNewTab": true, "label": "Resume", "url": "/Christian Areas.pdf" },
             "footer": [
