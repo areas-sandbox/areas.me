@@ -2,7 +2,8 @@ import React from "react"
 import {
   Seo,
   Page,
-  HeroSection
+  HeroSection,
+  ArticlesSection
 } from 'gatsby-theme-portfolio-minimal'
 
 function Home() {
@@ -10,7 +11,14 @@ function Home() {
     <>
       <Seo title="areas.me" />
       <Page useSplashScreenAnimation>
-        <HeroSection sectionId="hero" />
+        <HeroSection
+          sectionId="hero"
+        />
+        <ArticlesSection
+          sectionId="articles"
+          heading="Latest Posts"
+          sources={['Blog']}
+        />
       </Page>
     </>
   );

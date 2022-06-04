@@ -1,13 +1,13 @@
 {
     "siteMetadata": {
         "language": "en",
-        "siteUrl": "areas.me",
-        "title": "",
+        "siteUrl": "https://areas.me",
+        "title": "areas.me",
         "titleTemplate": "%s · Portfolio",
         "description": "",
-        "author": "",
-        "avatar": "",
-        "bio": "",
+        "author": "Christian Areas",
+        "avatar": "../content/images/christian.jpg",
+        "bio": "This is a bio.",
         "social": {
             "github": "https://github.com/christianareas",
             "medium": "",
@@ -19,6 +19,7 @@
         "logo": { "text": "areas.me" },
         "navigation": {
             "header": [
+                { "label": "Blog", "url": "/blog" }
             ],
             "ctaButton": { "openNewTab": true, "label": "Resume", "url": "/Christian Areas.pdf" },
             "footer": [
