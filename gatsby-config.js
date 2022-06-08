@@ -1,7 +1,7 @@
-/*
- * gatsby config
- * to learn more, see: https://www.gatsbyjs.com/docs/gatsby-config/
- */
+/**
+  * gatsby config
+  * to learn more, see: https://www.gatsbyjs.com/docs/gatsby-config/
+ **/
 
 module.exports = {
   plugins: [
