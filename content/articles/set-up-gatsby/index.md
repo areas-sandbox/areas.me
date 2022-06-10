@@ -1,12 +1,17 @@
 ---
-title: 'Test Title'
-description: 'Test description.'
-date: '2021-05-28'
+title: 'How I Set Up This Site'
+description: 'A brief description of how I set up this site.'
+date: '2021-06-09'
 categories:
-    - 'Test-Category'
+    - 'Development'
 keywords:
-    - 'Keyword-1'
-    - 'Keyword-2'
+    - 'Gatsby'
+    - 'Gatsby Cloud'
+    - 'GitHub'
 ---
 
-This will be the actual content of the article.
+1. Set Up Local Environment
+2. Install Gatsby.
+3. Install gatsby-starter-hello-world starter.
+4. Install gatsby-theme-portfolio-minimal.
+5. Configure site.
