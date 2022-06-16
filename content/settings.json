@@ -19,7 +19,6 @@
         "logo": { "text": "areas.me" },
         "navigation": {
             "header": [
-                { "label": "Thoughts", "url": "/thoughts" }
             ],
             "ctaButton": { "openNewTab": true, "label": "Resume", "url": "/Christian Areas.pdf" },
             "footer": [
