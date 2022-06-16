@@ -12,7 +12,7 @@
     },
     "description": "I help developers communicate.",
     "socialProfiles": {
-        "from": ["LinkedIn", "GitHub"],
+        "from": ["LinkedIn", "GitHub", "Mail"],
         "showIcons": true
     }
 }
